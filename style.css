@@ -1,0 +1,25 @@
+.note-card {
+  background-color: #f77f77;
+  color: #fff;
+  margin-bottom: 15px;
+  padding: 15px;
+  border-radius: 10px;
+  position: relative;
+}
+
+.note-card .delete-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.note-card .note-date {
+  font-size: 12px;
+  color: #fff;
+  margin-bottom: 10px;
+}
